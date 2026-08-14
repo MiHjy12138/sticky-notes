@@ -1,0 +1,11 @@
+# 运行时数据（便签内容/位置/会话状态）
+*.pos
+session-state.txt
+running.pids
+
+# 脚本自动滚动备份
+*.bak-*
+
+# 系统文件
+Thumbs.db
+Desktop.ini
