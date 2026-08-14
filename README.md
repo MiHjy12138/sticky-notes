@@ -2,7 +2,7 @@
 发行就是V1.6，因为前几个版本是在我的openclaw上迭代的，用的deepseek，然后minimax在旁简单协助了一下，本人只是个小白，来此开个号玩玩，随手做的小工具只是作为好玩儿和分享，第一次发布东西，如果有什么问题还请指出，感谢
 # 便签 StickyNotes 🍊
 
-一个 Win7 风格、绿色免安装的 Windows 桌面便签小工具。纯 PowerShell + WPF 实现，单文件脚本，无需任何依赖。
+一个 Win7 风格、绿色免安装的 Windows 桌面便签小工具。纯 PowerShell + WPF 实现，单文件脚本，无需任何依赖，无需exe。
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE) ![License](https://img.shields.io/badge/License-MIT-green)
 
